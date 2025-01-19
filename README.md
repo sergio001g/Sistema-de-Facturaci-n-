@@ -1,4 +1,4 @@
-# Sistema de Facturaciónaaaa
+# Sistema de Facturación
 
 Este proyecto es un sistema simple de facturación desarrollado en Python. Permite crear, almacenar y gestionar facturas de manera sencilla para pequeñas empresas o comercios. 
 
